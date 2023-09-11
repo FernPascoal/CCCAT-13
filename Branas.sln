@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Branas", "Branas\Branas.csproj", "{31473BE2-421C-47F0-B2D2-02200B2FA273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Branas.Test", "Branas.Test\Branas.Test.csproj", "{2EAFF1BF-7913-4489-985D-18859A4DF412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31473BE2-421C-47F0-B2D2-02200B2FA273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31473BE2-421C-47F0-B2D2-02200B2FA273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31473BE2-421C-47F0-B2D2-02200B2FA273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31473BE2-421C-47F0-B2D2-02200B2FA273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EAFF1BF-7913-4489-985D-18859A4DF412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EAFF1BF-7913-4489-985D-18859A4DF412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EAFF1BF-7913-4489-985D-18859A4DF412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EAFF1BF-7913-4489-985D-18859A4DF412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BBFA71D-2167-46A9-BDA1-5ECD53CEBEFE}
+	EndGlobalSection
+EndGlobal
